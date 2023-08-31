@@ -57,4 +57,3 @@ While the current version of Blogify offers a solid foundation, there are severa
 
 ---
 
-Feel free to customize this template to match the specific details and accomplishments of your Blogify project. Adding screenshots, additional sections, and personal touches will make your GitHub page even more engaging for potential visitors.
